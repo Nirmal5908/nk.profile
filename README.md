@@ -1,0 +1,4 @@
+Hi, I'm Nirmal 👋
+🎓 2nd year CSE student
+💻 Learning Web Development
+🚀 Interested in Frontend & AI
